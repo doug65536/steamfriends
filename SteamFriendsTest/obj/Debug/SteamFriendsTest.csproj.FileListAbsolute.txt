@@ -1,0 +1,9 @@
+c:\users\doug\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\doug\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\doug\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\doug\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmFriends.resources
+c:\users\doug\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\doug\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SteamFriendsTest.csproj.GenerateResource.cache
+c:\users\doug\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SteamFriendsTest.csproj.CoreCompileInputs.cache
+c:\users\doug\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\doug\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
